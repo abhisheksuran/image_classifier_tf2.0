@@ -14,3 +14,7 @@ Than i copied files from both folders and put them in a folder named 'data'
 ## scripts
 
 There are two scripts one to rename files and other is for model and preprocessing
+
+## special thanks to
+
+I learned about raw image preprocessing from https://pythonprogramming.net/ and other resources
